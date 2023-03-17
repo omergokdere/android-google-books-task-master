@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">MobLib</string>
+
+    <string name="toolbarBookSearching">Book Search</string>
+    <string name="toolbarBookSearchingResult">Book Search Results</string>
+    <string name="toolbarBookDetail">Book Detail</string>
+
+    <string name="bookDetailDescription">Description</string>
+    <string name="book.detail.noDescription">There is no description specified for this book yet</string>
+    <string name="bookDetailPublisherHeader">Publisher</string>
+    <string name="bookDetailPublisherInfo" formatted="false">%s in %s</string> <!-- Publisher adı, yayınlanma tarihi-->
+    <string name="bookDetailCategories">Categories</string>
+    <string name="bookDetailNoCategories">There is no category specified for this book</string>
+    <string name="bookDetailMiscellaneous">Miscellaneous</string>
+    <string name="bookDetailMiscellaneousInfo" formatted="false">Language : %s\nPage Count :%d </string> <!-- Language: TR  yenisatırda PageCount :  503 -->
+    <string name="bookDetailIdentifier">Identifiers</string>
+    <string name="bookDetailNoIdentifiers">There is no industry identifiers specified for this book.</string>
+    <string name="bookDetailImageDescription">Book Image</string>
+    <string name="bookDetailLoading">Getting details of book&#8230;</string>
+
+    <string name="book.detail.viewOnGoogleBooksWebsite">View on Google Books</string>
+    <string name="whichBrowser">Choose Browser&#8230;</string>
+
+    <string name="bookSearchingMainTitle">Book Searching Criterias.</string>
+    <string name="bookSearchingBookName">Book Name :</string>
+    <string name="bookSearchingAuthor">Author \t\t\t:</string>
+    <string name="bookSearchingKeyword">Keyword\t\t:</string>
+    <string name="bookSearchingISBN">ISBN\t\t\t\t  :</string>
+    <string name="bookSearchingSearchButton">Search</string>
+    <string name="bookSearchingNoInputEntered">Please enter atleast one criteria</string>
+    <string name="bookSearchingLoading">Looking for books&#8230;</string>
+
+
+    <string name="noConnection">There is no connection to server.Please check your internet connection and try again later.</string>
+    <string name="noBooks">No books could be found with that search.</string>
+    <string name="tryAgain">TRY AGAIN</string>
+    <string name="unknownError" >An unexpected error has occurred.</string>
+</resources>
